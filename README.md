@@ -1,4 +1,3 @@
-# Moulin-Rouge-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -70,7 +69,6 @@
 
 <div class="container">
     <h1>Введите пароль для доступа</h1>
-    <p>Пароль: <strong>абсент</strong></p>
     <input type="password" id="password" placeholder="Введите пароль">
     <button onclick="checkPassword()">Войти</button>
     <div id="error-message" class="error-message" style="display: none;">Неверный пароль! Попробуйте снова.</div>
